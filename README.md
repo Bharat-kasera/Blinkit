@@ -1,6 +1,5 @@
 <div align="center">
   
-https://github.com/user-attachments/assets/c704ef70-e601-405d-9e7b-f66e2bcefead
   <div>
     <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="reactnative" />
     <img src="https://img.shields.io/badge/-zustand-black?style=for-the-badge&logoColor=white&logo=zustand&color=4169E1" alt="postgresql" />
